@@ -36,6 +36,7 @@ set_data : list = create_dataSet(5.0, 1.0, 10000)
 draw_plot(set_data, 100)
 
 ```
+![expect output](https://github.com/Deshan555/Machine-Learning-Basic_Using_Python/blob/main/5.Machine%20Learning%20-%20Normal%20Data%20Distribution/Figure_1.png)
 
 ## Histogram Explained
 
